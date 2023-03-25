@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 Tercera referencia
 Cuarta referencia
+Quinta referencia
+=======
+Primera referencia
+Segunda referencia
+>>>>>>> bibliografia
